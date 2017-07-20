@@ -1,2 +1,2 @@
 # sudoku
-This is an algorithm to solve suodku puzzles, just like person would.
+This is an algorithm to solve sudoku puzzles, just like person would.
